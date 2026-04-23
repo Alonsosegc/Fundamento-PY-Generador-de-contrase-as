@@ -1,4 +1,4 @@
-# Generador de Contraseñas
+# 🔐 Generador de Contraseñas
 
 Genera una contraseña aleatoria de 8 caracteres combinando letras, números y símbolos.
 
@@ -10,4 +10,4 @@ Genera una contraseña aleatoria de 8 caracteres combinando letras, números y s
 ## Ejemplo
 Ingrese su nombre de usuario: Alonso
 
-Alonso, tu nuevo password es: k7!m2@9x
+Alonso, tu nuevo password es: k7!m2@9x 🔑
