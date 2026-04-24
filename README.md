@@ -1,4 +1,4 @@
-# 🔐 Generador de Contraseñas
+# 🔐 Generador de Password
 
 Genera una contraseña aleatoria de 8 caracteres combinando letras, números y símbolos.
 
